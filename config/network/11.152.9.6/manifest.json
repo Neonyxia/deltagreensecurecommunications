@@ -1,4 +1,5 @@
 {
+    "year": "2005",
     "serverAddress": "138.43.115.0",
     "serverName": "DELTA GREEN SECURE SERVER 24.8",
     "iconName": "triangle.jpg",
@@ -8,4 +9,5 @@
         "password": "blckrthanblack",
         "userName": "lucky"
     }
+     "randomSeed": false
 }
