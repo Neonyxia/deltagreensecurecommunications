@@ -1,7 +1,7 @@
 {
     "serverAddress": "localhost",
     "serverName": "DELTA GREEN SECURE SERVER v24.8",
-    "iconName": "triangle.png",
+    "iconName": "triangle.jpg",
     "terminalID": "L",
     "defaultUser": {
         "userId": "lucky",
