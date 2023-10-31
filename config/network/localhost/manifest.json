@@ -8,7 +8,7 @@
         "password": "blkrthanblk",
         "userName": "lucky"
     },
-    "randomSeed": true,
+    "randomSeed": false,
     "initialHistory": {
         "user": [
             "login admin@admin"
