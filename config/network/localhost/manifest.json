@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "DELTA GREEN SECURE SERVER v24.8",
+    "iconName": "triangle.png",
+    "terminalID": "L",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "lucky",
+        "password": "blkrthanblk",
+        "userName": "lucky"
     },
     "randomSeed": true,
     "initialHistory": {
