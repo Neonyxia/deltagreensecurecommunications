@@ -3,23 +3,5 @@
         "userId": "lucky",
         "password": "",
         "userName": "lucky"
-    },
-
-    {
-        "userId": "a",
-        "password": "a",
-        "userName": "Mulder, Fox"
-    },
-
-    {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
-    },
-
-    {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
     }
 ]
